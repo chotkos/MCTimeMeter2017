@@ -1,0 +1,24 @@
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\bin\Release\MCTMWidget.exe.config
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\bin\Release\MCTMWidget.exe
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\bin\Release\MCTMWidget.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MainWindow.baml
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MainWindow.g.cs
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\App.g.cs
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MCTMWidget_MarkupCompile.cache
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MCTMWidget.g.resources
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MCTMWidget.Properties.Resources.resources
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MCTMWidget.csproj.GenerateResource.Cache
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MCTMWidget.exe
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTMWidget\obj\Release\MCTMWidget.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\bin\Release\MCTMWidget.exe.config
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\bin\Release\MCTMWidget.exe
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\bin\Release\MCTMWidget.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MainWindow.baml
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MainWindow.g.cs
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\App.g.cs
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MCTMWidget_MarkupCompile.cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MCTMWidget.g.resources
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MCTMWidget.Properties.Resources.resources
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MCTMWidget.csproj.GenerateResource.Cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MCTMWidget.exe
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTMWidget\obj\Release\MCTMWidget.pdb

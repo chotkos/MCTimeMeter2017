@@ -1,0 +1,63 @@
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\MCTimeMeter.exe.config
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\MCTimeMeter.exe
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\MCTimeMeter.pdb
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\Data.dll
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\TimePanelControl.dll
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\Data.pdb
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\bin\Release\TimePanelControl.pdb
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MainWindow.baml
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MainWindow.g.cs
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\App.g.cs
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter_MarkupCompile.cache
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter.g.resources
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter.Properties.Resources.resources
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter.csproj.GenerateResource.Cache
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter.exe
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\MCTimeMeter\obj\Release\MCTimeMeter.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.exe.config
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.exe
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\Data.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\Helpers.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\TimePanelControl.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\MCTMWidget.exe
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\Data.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\Helpers.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\TimePanelControl.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Release\MCTMWidget.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.csprojResolveAssemblyReference.cache
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MainWindow.baml
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MainWindow.g.cs
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\App.g.cs
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter_MarkupCompile.cache
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.g.resources
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.Properties.Resources.resources
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.csproj.GenerateResource.Cache
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.exe
+C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.exe.config
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.exe.manifest
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.application
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.exe
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTimeMeter.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\Data.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\Helpers.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\TimePanelControl.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTMWidget.exe
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\Data.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\Helpers.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\TimePanelControl.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Release\MCTMWidget.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.csprojResolveAssemblyReference.cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MainWindow.baml
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MainWindow.g.cs
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\App.g.cs
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter_MarkupCompile.cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.g.resources
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.Properties.Resources.resources
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.csproj.GenerateResource.Cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.exe.manifest
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.application
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.exe
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Release\MCTimeMeter.pdb

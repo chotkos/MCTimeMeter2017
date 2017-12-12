@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>PRO/126/2014/00</string>
+    <string>PAS</string>
+    <string>PKN</string>
+    <string>JK</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>PRO/1/2015/00</string>
+    <string>AKU</string>
+    <string>LOXX</string>
+    <string>JK</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>PRO/136/2014/00</string>
+    <string>PAS</string>
+    <string>SUPERBET</string>
+    <string>JS</string>
+  </ArrayOfString>
+  <ArrayOfString>
+    <string>PRO/137/2014/00</string>
+    <string>ST</string>
+    <string>KMD </string>
+    <string>TW</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

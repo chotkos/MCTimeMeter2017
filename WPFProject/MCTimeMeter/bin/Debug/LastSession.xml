@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfString>
+    <string>PRO/139/2014/00</string>
+    <string>JN</string>
+    <string>ARM</string>
+    <string>JST</string>
+  </ArrayOfString>
+</ArrayOfArrayOfString>

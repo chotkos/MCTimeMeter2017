@@ -1,0 +1,39 @@
+﻿<Window x:Name="MainWindow1" x:Class="MCTimeMeter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MCTimeMeter" Height="450" Width="500" Icon="logo.ico" Closed="MainWindow1_Closed">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="72"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="75"/>
+
+            <RowDefinition/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <ScrollViewer x:Name="TimersScroll" Background="Transparent" Margin="0,0,0,0" BorderBrush="White" Foreground="Black" Grid.RowSpan="7"  VerticalScrollBarVisibility="Auto">
+            <StackPanel x:Name="TimersList" Margin="10" Background="Transparent" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        </ScrollViewer>
+        <Button x:Name="StopButton" Content="Stop" Grid.Column="1" Margin="17,10,15,10" Background="Transparent" Foreground="White" BorderBrush="White" Click="StopButton_Click" Width="120" />
+        <ComboBox x:Name="TaskComboBox" Grid.Column="1" Margin="17,0,15,0" Grid.Row="3" VerticalAlignment="Top" Background="Transparent" BorderBrush="White" Foreground="Black" Height="22" Width="120" ContextMenuOpening="TaskComboBox_ContextMenuOpening"/>
+        <Button x:Name="AddTaskButton" Content="Dodaj zadanie" Grid.Row="3" Grid.Column="1" Margin="17,28,15,0" Background="Transparent" Foreground="White" BorderBrush="White" Click="Button_Click" Height="22" Width="120"/>
+        
+        <Button x:Name="SetUserButton" Content="Ustaw Użytkownika" Grid.Row="1" Grid.Column="1" Margin="17,28,15,0" Background="Transparent" Foreground="White" BorderBrush="White" Height="22" Width="120" Click="SetUserButton_Click"/>
+        <TextBox x:Name="UserNameTextBox" Grid.Column="1" Height="23" Margin="17,0,15,0" Grid.Row="1" TextWrapping="NoWrap" Text="Kod użytkownika" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="120" GotKeyboardFocus="SelectAddress" MouseDoubleClick="SelectAddress" PreviewMouseLeftButtonDown="SelectivelyIgnoreMouseButton"/>
+<!--
+        <TextBox x:Name="NewTaskNameTextBox" Grid.Column="1" Height="23" Margin="17,0,15,0" Grid.Row="5" TextWrapping="NoWrap" Text="Nazwa zadania" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="120"  GotKeyboardFocus="SelectAddress" MouseDoubleClick="SelectAddress" PreviewMouseLeftButtonDown="SelectivelyIgnoreMouseButton"/>
+        <TextBox x:Name="NewTaskClientNameTextBox" Grid.Column="1" Height="23" Margin="17,0,15,0" Grid.Row="5" TextWrapping="NoWrap" Text="Klient" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="120"  GotKeyboardFocus="SelectAddress" MouseDoubleClick="SelectAddress" PreviewMouseLeftButtonDown="SelectivelyIgnoreMouseButton"/>
+        <Button x:Name="AddTaskByNameButton" Content="Nowe zadanie" Grid.Row="5" Grid.Column="1" Background="Transparent" Foreground="White" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="22" Width="120" Click="AddTaskByNameButton_Click"/>
+-->
+        <Image Source="logo3.png" Grid.Column="1" HorizontalAlignment="Center" Height="125" Margin="13,0,16,0" Grid.Row="6" VerticalAlignment="Bottom" Width="124"/>
+        <Label Content="Mateusz Chodkowski 2014" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="7" VerticalAlignment="Top" Margin="0,0,0,0" HorizontalContentAlignment="Center" Foreground="White"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\Data\bin\Release\Data.dll
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\Data\bin\Release\Data.pdb
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\Data\obj\Release\Data.dll
+C:\Users\Mateusz\documents\visual studio 2013\Projects\MCTimeMeter\Data\obj\Release\Data.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\Data\bin\Release\Data.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\Data\bin\Release\Data.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\Data\obj\Release\Data.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\Data\obj\Release\Data.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Data\bin\Release\Data.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Data\bin\Release\Data.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Data\obj\Release\Data.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Data\obj\Release\Data.pdb

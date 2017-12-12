@@ -1,0 +1,14 @@
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\bin\Release\Helpers.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\bin\Release\Helpers.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\bin\Release\Data.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\bin\Release\Data.pdb
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\obj\Release\Helpers.csprojResolveAssemblyReference.cache
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\obj\Release\Helpers.dll
+C:\GITREPO\MCTimeMeterST\WPFProject\Helpers\obj\Release\Helpers.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\bin\Release\Helpers.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\bin\Release\Helpers.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\bin\Release\Data.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\bin\Release\Data.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\obj\Release\Helpers.csprojResolveAssemblyReference.cache
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\obj\Release\Helpers.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\obj\Release\Helpers.pdb
