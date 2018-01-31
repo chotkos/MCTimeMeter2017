@@ -1,0 +1,9 @@
+﻿2018-01-29 14:04:44,190 FATAL [10] MCTimeMeter.MainWindow..ctor - Fatal error on loading tasks from excel	System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w MCTimeMeter.MainWindow..ctor() w C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\MainWindow.xaml.cs:wiersz 58
+2018-01-29 14:05:37,299 FATAL [9] MCTimeMeter.MainWindow..ctor - Fatal error on loading tasks from excel	System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w MCTimeMeter.MainWindow..ctor() w C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\MainWindow.xaml.cs:wiersz 58
+2018-01-29 14:13:58,801 FATAL [9] Helpers.ExcelHelper.SaveLine2 - SaveLine2 thrown an error	System.Runtime.InteropServices.COMException (0x800A03EC): Nie można zapisać pliku „results.xls”, ponieważ jest on tylko do odczytu.
+
+Aby zachować zmiany, zapisz skoroszyt pod nową nazwą lub w innej lokalizacji.
+   w Microsoft.Office.Interop.Excel._Workbook.Save()
+   w Helpers.ExcelHelper.SaveLine2(String filename, List`1 data) w C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\Helpers\ExcelHelper.cs:wiersz 268

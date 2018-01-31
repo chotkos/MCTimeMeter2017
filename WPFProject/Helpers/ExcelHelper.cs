@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using Data;
 using Microsoft.Office.Interop.Excel;
 using System.Runtime.InteropServices;
+using log4net;
 
 namespace Helpers
 {
@@ -16,7 +17,7 @@ namespace Helpers
     {
         #region publics
         public static string connectionString = "";
-
+        public static ILog Log = LogManager.GetLogger(typeof(ExcelHelper));
         public static bool DoFileExist(string filename)
         {
             return File.Exists(filename);
@@ -161,8 +162,8 @@ namespace Helpers
 
                 }
                 catch (Exception ex)
-                {
-                    //return null;
+                { 
+                    Log.Fatal("GetTasks3 thrown an error\t" + ex.ToString());
                     throw ex;
                 }
                 finally
@@ -216,6 +217,7 @@ namespace Helpers
                 }
                 catch (Exception ex)
                 {
+                    Log.Fatal("SaveLine thrown an error\t" + ex.ToString());
                     throw ex;
                 }
             }
@@ -248,17 +250,17 @@ namespace Helpers
                     var c = range.Rows.Count;
 
                     //logic here
-                    xlWorksheet.Rows[2].Insert();
+                    xlWorksheet.Rows[c].Insert(); //2->c
 
-                    xlWorksheet.Cells[1][2] = data[0].ToString();
-                    xlWorksheet.Cells[2][2] = data[1].ToString();
-                    xlWorksheet.Cells[3][2] = data[2].ToString();
-                    xlWorksheet.Cells[4][2] = data[3].ToString();
-                    xlWorksheet.Cells[5][2] = data[4].ToString();
-                    xlWorksheet.Cells[6][2] = Convert.ToInt32(Convert.ToDecimal(data[5]));
-                    xlWorksheet.Cells[7][2] = data[6].ToString();
-                    xlWorksheet.Cells[8][2] = data[7].ToString();
-                    xlWorksheet.Cells[9][2] = data[8].ToString();
+                    xlWorksheet.Cells[1][c] = data[0].ToString();                           //2->c
+                    xlWorksheet.Cells[2][c] = data[1].ToString();
+                    xlWorksheet.Cells[3][c] = data[2].ToString();
+                    xlWorksheet.Cells[4][c] = data[3].ToString();
+                    xlWorksheet.Cells[5][c] = data[4].ToString();
+                    xlWorksheet.Cells[6][c] = Convert.ToInt32(Convert.ToDecimal(data[5]));
+                    xlWorksheet.Cells[7][c] = /*"'" + */ Convert.ToDateTime(data[6]).ToString("yyyy-MM-dd HH:mm:ss"); //data[6].ToString();
+                    xlWorksheet.Cells[8][c] = /*"'" +*/ Convert.ToDateTime(data[7]).ToString("yyyy-MM-dd HH:mm:ss"); ;//data[7].ToString();
+                    xlWorksheet.Cells[9][c] = data[8].ToString();
 
 
 
@@ -287,6 +289,7 @@ namespace Helpers
                 }
                 catch (Exception ex)
                 {
+                    Log.Fatal("SaveLine2 thrown an error\t"+ ex.ToString());
                     throw ex;
                 }
             }

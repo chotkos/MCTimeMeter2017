@@ -50,31 +50,43 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vcRTCXG9KUKIj4ueEtfmQTpEDeTYYM8suKHT8IBxHo4=</dsig:DigestValue>
+        <dsig:DigestValue>cPgyu6qE6uhqvQ8m7+eCoR+jr/QpQRqzk88PF7pgECo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Helpers.dll" size="18432">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Helpers.dll" size="19456">
       <assemblyIdentity name="Helpers" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AcHFjlYiEWb8rI3H4ba8NdOXdIJba0iuc0OrR76vax8=</dsig:DigestValue>
+        <dsig:DigestValue>voaaV+0sRqHF58eNnTII8dPbAtgeQ/9TY4FDLi9AQLc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MCTimeMeter.exe" size="257440">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="log4net.dll" size="276480">
+      <assemblyIdentity name="log4net" version="2.0.8.0" publicKeyToken="669E0DDF0BB1AA2A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>r1YQxRXSJE25jGYmNiZMgXfomxr+QH+I/RikHWb25+I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MCTimeMeter.exe" size="258464">
       <assemblyIdentity name="MCTimeMeter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>K9Ui+bse2Fg/0Klra2Yjj+7SV6IUvV4TOOgZeB5Sy+s=</dsig:DigestValue>
+        <dsig:DigestValue>7YxyHoTemXzkVnvYKryiooPrFEUtxtyRUvvkCGPZIg4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Aeq/wLirhZ3JhRTosiVzdm3N521cDkE2XIMsckzyOpY=</dsig:DigestValue>
+        <dsig:DigestValue>abn8Fe+XZJr5vTO6Gxsokq01b8wIQ3+nmPGPPDjW9Rk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +110,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6PN7mC79nLNWi+kG2dNH+YRgsOycYq90N91tzalWZOM=</dsig:DigestValue>
+        <dsig:DigestValue>ZAeuBpJPQUHd2kmokxscrgNhWD4dU/M8uQiMcNMPslg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -111,13 +123,13 @@
       <dsig:DigestValue>iZ8Ou0xwR+O5D9vANnF5MSqdqBeVb4kcISVWFtZVro0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="MCTimeMeter.exe.config" size="182">
+  <file name="MCTimeMeter.exe.config" size="1121">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>PbQiHFOih9uz3RPvvsStiPKcsu3PE8/gyCn2QGUyyf4=</dsig:DigestValue>
+      <dsig:DigestValue>36esoOhIOCra2lRuufYWJyiPQUK5UoIgJizS1HzQ9CY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -1,5 +1,6 @@
 ﻿using Data;
 using Helpers;
+using log4net;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
@@ -27,9 +28,9 @@ namespace MCTimeMeter
     public partial class MainWindow : Window
     {
         private DispatcherTimer timer = new DispatcherTimer();
+        public ILog Log = LogManager.GetLogger(typeof(XMLHelper));
         public MainWindow()
         {
-            
             InitializeComponent();
             this.Width = 200;
             StopButton.Visibility = Visibility.Hidden;
@@ -45,33 +46,54 @@ namespace MCTimeMeter
             TimersScroll.Visibility = Visibility.Hidden;
             DayRegister.InactiveControls.CollectionChanged += (e, v) => ReloadComboBox();
 
-            var tasks = ExcelHelper.GetTasks3(ProductProperties.InputFileName);
-            timer.Interval = new TimeSpan(0, 0, 1);
-            timer.Tick += timer_Tick;
-            timer.Start();
-
-
-            foreach (var item in tasks)
+            try
             {
-                DayRegister.AddUnactiveTask(item[0], item[1], item[2], item[3],Convert.ToInt32(item[5]));
+
+                var tasks = ExcelHelper.GetTasks3(ProductProperties.InputFileName);
+                timer.Interval = new TimeSpan(0, 0, 1);
+                timer.Tick += timer_Tick;
+                timer.Start();
+
+
+                foreach (var item in tasks)
+                {
+                    DayRegister.AddUnactiveTask(item[0], item[1], item[2], item[3], Convert.ToInt32(item[5]));
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Log.Fatal("Fatal error on loading tasks from excel\t" + ex.ToString());
+                throw ex;
             }
 
             DayRegister.SortInactives();
 
             if (Helpers.ExcelHelper.DoFileExist(ProductProperties.LastSessionFileName))
             {
-                var lastSessionTasks = XMLHelper.ReadXML(Data.ProductProperties.LastSessionFileName);
-                foreach (var item in lastSessionTasks)
+                try
                 {
-                    if (DayRegister.InactiveControls.Any(x => x.TaskName == item[0]))
+
+                    var lastSessionTasks = XMLHelper.ReadXML(Data.ProductProperties.LastSessionFileName);
+                    foreach (var item in lastSessionTasks)
                     {
-                        DayRegister.ActivateTask(DayRegister.InactiveControls.Single(x => x.TaskName == item[0]));
+                        if (DayRegister.InactiveControls.Any(x => x.TaskName == item[0]))
+                        {
+                            DayRegister.ActivateTask(DayRegister.InactiveControls.Single(x => x.TaskName == item[0]));
+                        }
+                        else
+                        {
+                            var x = new TimeControl(item[0], item[1], item[2], item[3], Convert.ToInt32(item[4]));
+                            DayRegister.InactiveControls.Add(x);
+                            DayRegister.ActivateTask(x);
+                        }
                     }
-                    else {
-                        var x = new TimeControl(item[0], item[1], item[2], item[3], Convert.ToInt32(item[4]));
-                        DayRegister.InactiveControls.Add(x);
-                        DayRegister.ActivateTask(x);
-                    }
+
+                }
+                catch (Exception ex)
+                {
+                    Log.Fatal("Fatal error on loading last session from xml\t" + ex.ToString());
+                    throw ex;
                 }
 
             }
@@ -84,13 +106,21 @@ namespace MCTimeMeter
             DayRegister.Controls.CollectionChanged += (e, v) => ReloadTimerList();
             DayRegister.Controls.CollectionChanged += (e, v) => ReloadComboBox();
             DayRegister.SortInactives();
-            
 
-            if (ExcelHelper.DoFileExist( ProductProperties.LastLoggedUserFile ))
+            try
             {
-                UserNameTextBox.Text = XMLHelper.ReadXMLString( ProductProperties.LastLoggedUserFile );
-            }
 
+                if (ExcelHelper.DoFileExist(ProductProperties.LastLoggedUserFile))
+                {
+                    UserNameTextBox.Text = XMLHelper.ReadXMLString(ProductProperties.LastLoggedUserFile);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Log.Fatal("Fatal error on loading last logged user from xml\t" + ex.ToString());
+                throw ex;
+            }
 
             ReloadTimerList();
         }
@@ -101,7 +131,8 @@ namespace MCTimeMeter
             {
                 StopButton.Background = new SolidColorBrush(Colors.Transparent);
             }
-            else {
+            else
+            {
                 StopButton.Background = new SolidColorBrush(Colors.Red);
             }
         }

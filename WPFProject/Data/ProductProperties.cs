@@ -8,7 +8,7 @@ namespace Data
 {
     public static class ProductProperties
     {
-        public const string NetworkStoragePlace = @"W:\PROJEKTOWY\MCTimeMeter\";
+        public const string NetworkStoragePlace = @"W:\PROJEKTOWY\MCTimeMeter\";// @"C:\mctimemeter\";// @"W:\PROJEKTOWY\MCTimeMeter\"; 
         public const string InputFileName = "projects.xls";
         public const string InputFileSheetName = "projects";
         public const string OutputFileName = "results.xls";

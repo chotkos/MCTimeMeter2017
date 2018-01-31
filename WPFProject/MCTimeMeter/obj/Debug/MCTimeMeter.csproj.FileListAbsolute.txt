@@ -37,15 +37,19 @@ C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Debug\Helpers.pdb
 C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Debug\MCTMWidget.exe
 C:\GITREPO\MCTimeMeterST\WPFProject\MCTimeMeter\bin\Debug\MCTMWidget.pdb
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.exe.config
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.exe.manifest
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.application
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.exe
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.pdb
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\Data.dll
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\Helpers.dll
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\log4net.dll
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\TimePanelControl.dll
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTMWidget.exe
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\Data.pdb
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\Helpers.pdb
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\TimePanelControl.pdb
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\log4net.xml
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTMWidget.pdb
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.csprojResolveAssemblyReference.cache
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MainWindow.baml
@@ -55,9 +59,7 @@ C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.g.resources
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.Properties.Resources.resources
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.csproj.GenerateResource.Cache
-C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.exe
-C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.pdb
-C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.exe.manifest
-C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\bin\Debug\MCTimeMeter.application
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.exe.manifest
 C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.application
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.exe
+C:\mctimemeter\chotkos-mctimemeter-e4be22f7ed1b (1)\chotkos-mctimemeter-e4be22f7ed1b\WPFProject\MCTimeMeter\obj\Debug\MCTimeMeter.pdb
